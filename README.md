@@ -34,5 +34,5 @@ yaralili15@gmail.com
 [Portfolio](your-portfolio-url)
 
 
-💡Fun fact:I bring a unique perspective to accessibility—my background in public health taught me that technology should serve everyone, not just the able-bodied. Now I build web apps with that principle baked in from day one.
+💡Fun fact:I bring a unique perspective to accessibility because my background in public health taught me that technology should serve everyone, not just the able-bodied. Now I build web apps with that principle baked in from day one.
 
