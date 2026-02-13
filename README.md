@@ -16,14 +16,14 @@ I’m currently working on:
 - [Portfolio](https://github.com/YaraHub25/portfolio]
   Personal site showcasing accessible web development
   
-🌱 I’m currently learning:
+I’m currently learning:
 - Advanced ARIA patterns
 - Performance optimization (Core Web Vitals)
 - Cloud deployment (AWS, Vercel)
 
   
-🎓 Education
-MS Software Engineering** - University of Maryland Global Campus (2025)  
+Education
+MS Software Engineering - University of Maryland Global Campus (2025)  
 BS Public Health, Minor in Biology - Gallaudet University (2022)
 
 
