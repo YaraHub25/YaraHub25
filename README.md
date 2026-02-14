@@ -13,8 +13,7 @@ I’m currently working on:
 - [Yairo](https://github.com/YaraHub25/yairo)
   Community platform with accessible UI, authentication, and real-time features
   
-- [Portfolio](https://github.com/YaraHub25/portfolio]
-  Personal site showcasing accessible web development
+- (https://github.com/YaraHub25/portfolio] [Portfolio]
   
 I’m currently learning:
 - Advanced ARIA patterns
