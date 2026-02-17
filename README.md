@@ -13,7 +13,7 @@ I’m currently working on:
 - [Yairo](https://github.com/YaraHub25/yairo)
   Community platform with accessible UI, authentication, and real-time features
   
-- (https://github.com/YaraHub25/portfolio] [Portfolio]
+- https://yarahub25.github.io/yaravasquez/ [Portfolio]
   
 I’m currently learning:
 - Advanced ARIA patterns
@@ -30,7 +30,7 @@ BS Public Health, Minor in Biology - Gallaudet University (2022)
 
 yaralili15@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/yara-vasquez-ab4b75277/)  
-[Portfolio](your-portfolio-url)
+
 
 
 💡Fun fact: I bring a unique perspective to accessibility because my background in public health taught me that technology should serve everyone, not just the able-bodied. Now I build web apps with that principle baked in from day one.
