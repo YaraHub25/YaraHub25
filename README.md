@@ -15,12 +15,6 @@ I’m currently working on:
   
 - https://yarahub25.github.io/yaravasquez/ [Portfolio]
   
-I’m currently learning:
-- Advanced ARIA patterns
-- Performance optimization (Core Web Vitals)
-- Cloud deployment (AWS, Vercel)
-
-  
 Education
 MS Software Engineering - University of Maryland Global Campus (2025)  
 BS Public Health, Minor in Biology - Gallaudet University (2022)
