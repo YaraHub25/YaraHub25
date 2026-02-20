@@ -27,5 +27,5 @@ yaralili15@gmail.com
 
 
 
-💡Fun fact: I bring a unique perspective to accessibility because my background in public health taught me that technology should serve everyone, not just the able-bodied. I now build web apps from the ground up with that principle in mind. ☕️
+Fun fact: I bring a unique perspective to accessibility because my background in public health taught me that technology should serve everyone, not just the able-bodied. I now build web apps from the ground up with that principle in mind. ☕️
 
