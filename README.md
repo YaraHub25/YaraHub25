@@ -11,9 +11,8 @@ Active Project
 🟡 DialTrend - https://dialtrend.com   
 Wait-time intelligence platform showing the best times to call customer support
 
+Fun fact: My background in public health and biology shapes how I think about accessiblity-technology should serve everyone. 
 
-Fun fact 
-My background in public health and biology shapes how I think about accessiblity-technology should serve everyone. 
 Favorite book: Atomic Habits by James Clear
 Sports: Flag football & basketball league player
 
