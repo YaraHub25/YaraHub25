@@ -2,7 +2,7 @@ Hi, I'm Yara ✨
 
 I enjoy thinking outside the box and building software that solves real-world problems. 
 
-I'm a software engineer focused on accessible web applications with React, TypeScript, and modern web technologies.
+I'm a software engineer II focused on accessible web applications with React, TypeScript, and modern web technologies.
 
 Deployed 
 🟢 Portfolio - https://yarahub25.github.io/yaravasquez/
