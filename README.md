@@ -4,7 +4,7 @@ I enjoy thinking outside the box and building software that solves real-world pr
 
 I'm a software engineer II focused on accessible web applications with React, TypeScript, and modern web technologies.
  
-Deployed 
+Deployed  
 🟢 Portfolio - https://yarahub25.github.io/yaravasquez/
 
 Active Project
