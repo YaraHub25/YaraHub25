@@ -8,7 +8,7 @@ Deployed
 🟢 Portfolio - https://yarahub25.github.io/yaravasquez/
 
 Active Project
-🟡 DialTrend - https://dialtrend.com   
+🟡 DialTrend - https://dialtrend.com    
 Wait-time intelligence platform showing the best times to call customer support
 
 Fun fact: My background in public health and biology shapes how I think about accessibility-technology should serve everyone. 
